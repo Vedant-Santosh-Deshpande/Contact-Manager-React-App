@@ -1,6 +1,6 @@
 # Contact-Manager-React-App
 
-<strong>Available Scripts</strong>
+<b>Available Scripts</b>
 </hr>
 In the project directory, you can run:
 
